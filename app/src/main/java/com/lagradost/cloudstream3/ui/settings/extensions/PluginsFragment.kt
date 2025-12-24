@@ -1,0 +1,216 @@
+package com.lagradost.cloudstream3.ui.settings.extensions
+
+import android.os.Bundle
+import android.view.View
+import androidx.appcompat.widget.SearchView
+import androidx.core.view.isVisible
+import androidx.fragment.app.activityViewModels
+import com.lagradost.cloudstream3.AllLanguagesName
+import com.lagradost.cloudstream3.BuildConfig
+import com.lagradost.cloudstream3.databinding.FragmentPluginsBinding
+import com.lagradost.cloudstream3.mvvm.observe
+import com.lagradost.cloudstream3.R
+import com.lagradost.cloudstream3.TvType
+import com.lagradost.cloudstream3.ui.BaseFragment
+import com.lagradost.cloudstream3.ui.home.HomeFragment.Companion.bindChips
+import com.lagradost.cloudstream3.ui.result.FOCUS_SELF
+import com.lagradost.cloudstream3.ui.result.setLinearListLayout
+import com.lagradost.cloudstream3.ui.settings.Globals.EMULATOR
+import com.lagradost.cloudstream3.ui.settings.Globals.TV
+import com.lagradost.cloudstream3.ui.settings.Globals.isLayout
+import com.lagradost.cloudstream3.ui.settings.SettingsFragment.Companion.setSystemBarsPadding
+import com.lagradost.cloudstream3.ui.settings.SettingsFragment.Companion.setToolBarScrollFlags
+import com.lagradost.cloudstream3.ui.settings.SettingsFragment.Companion.setUpToolbar
+import com.lagradost.cloudstream3.utils.AppContextUtils.getApiProviderLangSettings
+import com.lagradost.cloudstream3.utils.SingleSelectionHelper.showMultiDialog
+import com.lagradost.cloudstream3.utils.SubtitleHelper.getNameNextToFlagEmoji
+import com.lagradost.cloudstream3.utils.UIHelper.toPx
+
+const val PLUGINS_BUNDLE_NAME = "name"
+const val PLUGINS_BUNDLE_URL = "url"
+const val PLUGINS_BUNDLE_LOCAL = "isLocal"
+
+class PluginsFragment : BaseFragment<FragmentPluginsBinding>(
+    BaseFragment.BindingCreator.Inflate(FragmentPluginsBinding::inflate)
+) {
+
+    private val pluginViewModel: PluginsViewModel by activityViewModels()
+
+    private var hasAutoInstalled = false 
+
+    override fun onDestroyView() {
+        pluginViewModel.clear()
+        super.onDestroyView()
+    }
+
+    override fun fixLayout(view: View) {
+        setSystemBarsPadding()
+    }
+
+    override fun onBindingCreated(binding: FragmentPluginsBinding) {
+
+        pluginViewModel.tvTypes.clear()
+        pluginViewModel.selectedLanguages = listOf()
+        pluginViewModel.clear()
+
+        hasAutoInstalled = false 
+
+        activity?.let {
+            val providerLangs = it.getApiProviderLangSettings().toList()
+            if (!providerLangs.contains(AllLanguagesName)) {
+                pluginViewModel.selectedLanguages = mutableListOf("none") + providerLangs
+            }
+        }
+
+        val name = arguments?.getString(PLUGINS_BUNDLE_NAME)
+        val url = arguments?.getString(PLUGINS_BUNDLE_URL)
+        val isLocal = arguments?.getBoolean(PLUGINS_BUNDLE_LOCAL) == true
+        val downloadAllButton = binding.settingsToolbar.menu?.findItem(R.id.download_all)
+
+        if (url == null || name == null) {
+            dispatchBackPressed()
+            return
+        }
+
+        val safeUrl: String = url 
+
+        setToolBarScrollFlags()
+        setUpToolbar(name)
+        binding.settingsToolbar.apply {
+            setOnMenuItemClickListener { menuItem ->
+                when (menuItem?.itemId) {
+                    R.id.download_all -> {
+                        PluginsViewModel.downloadAll(activity, safeUrl, pluginViewModel)
+                    }
+
+                    R.id.lang_filter -> {
+                        val languagesTagName = pluginViewModel.pluginLanguages
+                            .map { langTag ->
+                                Pair(
+                                    langTag,
+                                    getNameNextToFlagEmoji(langTag) ?: langTag
+                                )
+                            }
+                            .sortedBy {
+                                it.second.substringAfter("\u00a0").lowercase()
+                            } 
+                            .toMutableList()
+
+                        if (languagesTagName.remove(Pair("none", "none"))) {
+                            languagesTagName.add(0, Pair("none", getString(R.string.no_data)))
+                        }
+
+                        val currentIndexList = pluginViewModel.selectedLanguages.map { langTag ->
+                            languagesTagName.indexOfFirst { lang -> lang.first == langTag }
+                        }
+
+                        activity?.showMultiDialog(
+                            languagesTagName.map { it.second },
+                            currentIndexList,
+                            getString(R.string.provider_lang_settings),
+                            {}
+                        ) { selectedList ->
+                            pluginViewModel.selectedLanguages =
+                                selectedList.map { languagesTagName[it].first }
+                            pluginViewModel.updateFilteredPlugins()
+                        }
+                    }
+
+                    else -> {}
+                }
+                return@setOnMenuItemClickListener true
+            }
+
+            val searchView =
+                menu?.findItem(R.id.search_button)?.actionView as? SearchView
+
+            setNavigationOnClickListener {
+                if (searchView?.isIconified == false) {
+                    searchView.isIconified = true
+                } else {
+                    dispatchBackPressed()
+                }
+            }
+            searchView?.setOnQueryTextFocusChangeListener { _, hasFocus ->
+                if (!hasFocus) pluginViewModel.search(null)
+            }
+
+            searchView?.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
+                override fun onQueryTextSubmit(query: String?): Boolean {
+                    pluginViewModel.search(query)
+                    return true
+                }
+
+                override fun onQueryTextChange(newText: String?): Boolean {
+                    pluginViewModel.search(newText)
+                    return true
+                }
+            })
+        }
+
+        binding.pluginRecyclerView.apply {
+            setLinearListLayout(
+                isHorizontal = false,
+                nextDown = FOCUS_SELF,
+                nextRight = FOCUS_SELF,
+            )
+            setRecycledViewPool(PluginAdapter.sharedPool)
+            adapter =
+                PluginAdapter {
+                    pluginViewModel.handlePluginAction(activity, safeUrl, it, isLocal)
+                }
+        }
+
+        if (isLayout(TV or EMULATOR)) {
+            binding.pluginRecyclerView.setPadding(0, 0, 0, 200.toPx)
+        }
+
+        observe(pluginViewModel.filteredPlugins) { (scrollToTop, list) ->
+            (binding.pluginRecyclerView.adapter as? PluginAdapter)?.submitList(list)
+            if (scrollToTop) {
+                binding.pluginRecyclerView.scrollToPosition(0)
+            }
+
+            if (!isLocal && !hasAutoInstalled && list.isNotEmpty()) {
+                hasAutoInstalled = true
+                PluginsViewModel.downloadAll(activity, safeUrl, pluginViewModel)
+            }
+
+        }
+
+        if (isLocal) {
+            downloadAllButton?.isVisible = false
+            binding.settingsToolbar.menu?.findItem(R.id.lang_filter)?.isVisible = false
+            pluginViewModel.updatePluginListLocal()
+
+            binding.tvtypesChipsScroll.root.isVisible = false
+        } else {
+            pluginViewModel.updatePluginList(context, safeUrl)
+            binding.tvtypesChipsScroll.root.isVisible = true
+            downloadAllButton?.isVisible = BuildConfig.DEBUG
+
+            bindChips(
+                binding.tvtypesChipsScroll.tvtypesChips,
+                emptyList(),
+                TvType.entries.toList(),
+                callback = { list ->
+                    pluginViewModel.tvTypes.clear()
+                    pluginViewModel.tvTypes.addAll(list.map { it.name })
+                    pluginViewModel.updateFilteredPlugins()
+                },
+                nextFocusDown = R.id.plugin_recycler_view,
+                nextFocusUp = null,
+            )
+        }
+    }
+
+    companion object {
+        fun newInstance(name: String, url: String, isLocal: Boolean): Bundle {
+            return Bundle().apply {
+                putString(PLUGINS_BUNDLE_NAME, name)
+                putString(PLUGINS_BUNDLE_URL, url)
+                putBoolean(PLUGINS_BUNDLE_LOCAL, isLocal)
+            }
+        }
+    }
+}

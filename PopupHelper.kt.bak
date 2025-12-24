@@ -1,0 +1,95 @@
+package com.cncverse
+
+import android.app.Activity
+import android.content.Context
+import android.graphics.Color
+import android.graphics.drawable.ColorDrawable
+import android.graphics.drawable.GradientDrawable
+import android.os.Handler
+import android.os.Looper
+import android.util.TypedValue
+import android.view.Gravity
+import android.widget.LinearLayout
+import android.widget.TextView
+import android.app.AlertDialog
+
+object PopupHelper {
+
+    private const val PREFS_NAME = "RpCpuXPrefs"
+    private const val KEY_SHOWN_SUPPORT_POPUP = "shown_support_popup_red"
+
+    fun showIfNeeded(context: Context) {
+        val prefs = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+        if (prefs.getBoolean(KEY_SHOWN_SUPPORT_POPUP, false)) return
+
+        Handler(Looper.getMainLooper()).post {
+            val activity = context as? Activity ?: return@post
+            prefs.edit().putBoolean(KEY_SHOWN_SUPPORT_POPUP, true).apply()
+            showDialog(activity)
+        }
+    }
+
+    private fun showDialog(activity: Activity) {
+
+        val root = LinearLayout(activity).apply {
+            orientation = LinearLayout.VERTICAL
+            background = cardBackground()
+            setPadding(dp(24, activity), dp(22, activity), dp(24, activity), dp(22, activity))
+        }
+
+        // 🔴 Accent Top Line
+        root.addView(
+            LinearLayout(activity).apply {
+                setBackgroundColor(Color.parseColor("#B22222"))
+                layoutParams = LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.MATCH_PARENT,
+                    dp(4, activity)
+                )
+            }
+        )
+
+        val title = TextView(activity).apply {
+            text = "Thanks for Support 🔰 CloudZtream Remaxx 🔰"
+            textSize = 19f
+            setTextColor(Color.WHITE)
+            setTypeface(typeface, android.graphics.Typeface.BOLD)
+            gravity = Gravity.CENTER
+            setPadding(0, dp(16, activity), 0, dp(12, activity))
+        }
+
+        val message = TextView(activity).apply {
+            text =
+                "If You Enjoy this Extension, Supporting Cloudztream Builds.\n\nYour Support🔥 Helps Keep Development Active Maintained and Improvements Coming"
+            textSize = 14.5f
+            setTextColor(Color.parseColor("#ffffff"))
+            gravity = Gravity.CENTER
+            lineSpacingExtra = dp(4, activity).toFloat()
+        }
+
+        root.addView(title)
+        root.addView(message)
+
+        val dialog = AlertDialog.Builder(activity)
+            .setView(root)
+            .setCancelable(true)
+            .create()
+
+        dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
+        dialog.show()
+    }
+
+    // 🔴 Card dengan border merah glowing
+    private fun cardBackground(): GradientDrawable =
+        GradientDrawable().apply {
+            setColor(Color.parseColor("#1c1c2b"))
+            cornerRadius = 30f
+            setStroke(dp(2, AppContext.ctx), Color.parseColor("#B22222"))
+        }
+
+    private fun dp(value: Int, context: Context): Int =
+        TypedValue.applyDimension(
+            TypedValue.COMPLEX_UNIT_DIP,
+            value.toFloat(),
+            context.resources.displayMetrics
+        ).toInt()
+}
