@@ -1,8 +1,10 @@
-package com.Anichin
+package com.AnichinMoe
 
 import android.app.Activity
+import android.app.AlertDialog
 import android.content.Context
 import android.graphics.Color
+import android.graphics.Typeface
 import android.graphics.drawable.ColorDrawable
 import android.graphics.drawable.GradientDrawable
 import android.os.Handler
@@ -11,20 +13,26 @@ import android.util.TypedValue
 import android.view.Gravity
 import android.widget.LinearLayout
 import android.widget.TextView
-import android.app.AlertDialog
 
 object PopupHelper {
 
     private const val PREFS_NAME = "RpCpuXPrefs"
-    private const val KEY_SHOWN_SUPPORT_POPUP = "shown_support_popup_red"
+    private const val KEY_SHOWN_SUPPORT_POPUP = "shown_support_popup_once"
 
+    /**
+     * Show popup ONLY ONCE after plugin installation
+     */
     fun showIfNeeded(context: Context) {
         val prefs = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+
+        // already shown → stop
         if (prefs.getBoolean(KEY_SHOWN_SUPPORT_POPUP, false)) return
+
+        // mark as shown immediately (anti double call)
+        prefs.edit().putBoolean(KEY_SHOWN_SUPPORT_POPUP, true).apply()
 
         Handler(Looper.getMainLooper()).post {
             val activity = context as? Activity ?: return@post
-            prefs.edit().putBoolean(KEY_SHOWN_SUPPORT_POPUP, true).apply()
             showDialog(activity)
         }
     }
@@ -33,11 +41,16 @@ object PopupHelper {
 
         val root = LinearLayout(activity).apply {
             orientation = LinearLayout.VERTICAL
-            background = cardBackground()
-            setPadding(dp(24, activity), dp(22, activity), dp(24, activity), dp(22, activity))
+            background = cardBackground(activity)
+            setPadding(
+                dp(24, activity),
+                dp(22, activity),
+                dp(24, activity),
+                dp(22, activity)
+            )
         }
 
-        // 🔴 Accent Top Line
+        // 🔴 top accent line
         root.addView(
             LinearLayout(activity).apply {
                 setBackgroundColor(Color.parseColor("#B22222"))
@@ -49,19 +62,20 @@ object PopupHelper {
         )
 
         val title = TextView(activity).apply {
-            text = "Thanks for Support 🔰 CloudZtream Remaxx 🔰"
+            text = "🔰 RpCpuX 🔰\nThanks for Supporting CloudZtream Remaxx 🔥"
             textSize = 19f
             setTextColor(Color.WHITE)
-            setTypeface(typeface, android.graphics.Typeface.BOLD)
+            setTypeface(typeface, Typeface.BOLD)
             gravity = Gravity.CENTER
             setPadding(0, dp(16, activity), 0, dp(12, activity))
         }
 
         val message = TextView(activity).apply {
             text =
-                "If You Enjoy this Extension, Supporting Cloudztream Builds.\n\nYour Support🔥 Helps Keep Development Active Maintained and Improvements Coming"
+                "If you Enjoy This Extension, Consider Supporting CloudZtream Builds.\n\n" +
+                "Your Support 🔥 Helps Keep Development Active and Improving !"
             textSize = 14.5f
-            setTextColor(Color.parseColor("#ffffff"))
+            setTextColor(Color.WHITE)
             gravity = Gravity.CENTER
             lineSpacingExtra = dp(4, activity).toFloat()
         }
@@ -78,12 +92,11 @@ object PopupHelper {
         dialog.show()
     }
 
-    // 🔴 Card dengan border merah glowing
-    private fun cardBackground(): GradientDrawable =
+    private fun cardBackground(context: Context): GradientDrawable =
         GradientDrawable().apply {
             setColor(Color.parseColor("#1c1c2b"))
-            cornerRadius = 30f
-            setStroke(dp(2, AppContext.ctx), Color.parseColor("#B22222"))
+            cornerRadius = dp(18, context).toFloat()
+            setStroke(dp(3, context), Color.parseColor("#B22222"))
         }
 
     private fun dp(value: Int, context: Context): Int =
