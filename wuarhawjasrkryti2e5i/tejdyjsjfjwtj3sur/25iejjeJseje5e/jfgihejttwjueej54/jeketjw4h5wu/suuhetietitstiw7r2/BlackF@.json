@@ -1430,6 +1430,29 @@
         "name": "SaveMovie( Only VIP ACCES )"
     },
     {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "jarFileSize": 122789,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 28179,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "version": 16,
+        "internalName": "StreamPlay",
+        "jarUrl": "",
+        "description": "Multi API",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
+    },
+    {
         "iconUrl": "https://static.wikitide.net/cloudstreamwiki/thumb/7/74/SoraStream.png/32px-SoraStream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",

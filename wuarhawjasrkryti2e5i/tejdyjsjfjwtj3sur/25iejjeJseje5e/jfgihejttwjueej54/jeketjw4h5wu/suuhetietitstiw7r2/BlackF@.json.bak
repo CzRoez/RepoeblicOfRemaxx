@@ -393,6 +393,29 @@
         "name": "Donghub"
     },
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dramabox.com/&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 33384,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "DramaBox( Only VIP ACCES )",
+        "description": "DramaBox K-Drama,Dramas,Serial Asia",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DramaBox( Only VIP ACCES ).cs3",
+        "name": "DramaBox( Only VIP ACCES )"
+    },
+    {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://palapamovie.digital/&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
@@ -1405,6 +1428,29 @@
         "description": "SAve Movie and Series Streaming",
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/SaveMovie( Only VIP ACCES ).cs3",
         "name": "SaveMovie( Only VIP ACCES )"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Streamplay.png",
+        "jarFileSize": 122789,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 28179,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "version": 16,
+        "internalName": "StreamPlay",
+        "jarUrl": "",
+        "description": "Multi API",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
     },
     {
         "iconUrl": "https://static.wikitide.net/cloudstreamwiki/thumb/7/74/SoraStream.png/32px-SoraStream.png",
