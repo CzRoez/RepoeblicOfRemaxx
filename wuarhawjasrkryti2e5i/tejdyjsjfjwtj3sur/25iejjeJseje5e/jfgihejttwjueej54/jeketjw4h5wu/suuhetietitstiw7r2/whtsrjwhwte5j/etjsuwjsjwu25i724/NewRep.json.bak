@@ -1,0 +1,1388 @@
+[
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.social&size=64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 20507,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "Anichin",
+        "description": "Anichin Social",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Anichin.cs3",
+        "name": "Anichin"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 33163,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "kraptor123",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 51,
+        "internalName": "AnichinMoe",
+        "description": "AnichinMoe Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnichinMoe.cs3",
+        "name": "AnichinMoe"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animasu.com&size=32",
+        "jarFileSize": 147335,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 30907,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "Animasu",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Animasu.jar",
+        "description": "Animasu \u2014 Streaming Anime Sub Indo",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/8dJmx78jMj4DiyLcHyV9s1js_pV-b1ewLQYiEO8bfJ3dGWT7rWM6IuiPIMAdXoE-ZQ=w0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 21125,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 28,
+        "internalName": "AnimeIndo",
+        "description": "AnimeIndo Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeIndo.cs3",
+        "name": "AnimeIndo"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animekhor.org/&size=32",
+        "jarFileSize": 96948,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 23539,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 16,
+        "internalName": "AnimeKhor",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeKhor.jar",
+        "description": "AnimeKhor Donghua Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeKhor.cs3",
+        "name": "AnimeKhor"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://154.26.137.28&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 21929,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 20,
+        "internalName": "AnimeSail",
+        "description": "AnimeSail Anime Movie",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeSail.cs3",
+        "name": "AnimeSail"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexin.dev&size=32",
+        "jarFileSize": 71464,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 18801,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "Animexin",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Animexin.jar",
+        "description": "Anime and Movies From Animexin",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Animexin.cs3",
+        "name": "Animexin"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anixverseone.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 33153,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 13,
+        "internalName": "AnixVerse",
+        "description": "AnixVerse \ud83e\ude90 Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnixVerse.cs3",
+        "name": "AnixVerse"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.anoboy.boo&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 21864,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 8,
+        "internalName": "Anoboy",
+        "description": "Anoboy Anime Sub Indo",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Anoboy.cs3",
+        "name": "Anoboy"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://auratail.vip&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 20267,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 19,
+        "internalName": "Auratail",
+        "description": "Streaming Anime dan Donghua AURATAIL",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Auratail.cs3",
+        "name": "Auratail"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://m.cgv.id&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 190967,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Dromz",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 232,
+        "internalName": "CGVMovie",
+        "description": "CGVMovie And Series Streaming",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/CGVMovie.cs3",
+        "name": "CGVMovie"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=32",
+        "jarFileSize": 62431,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 16140,
+        "status": 2,
+        "authors": [
+            "Luna712",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Dailymotion",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Dailymotion.jar",
+        "description": "Watch Content from DailyaMotion",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Dailymotion.cs3",
+        "name": "Dailymotion"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://documentaryarea.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 19881,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ByAyzen",
+            "Kraptor123",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "DocumentaryArea",
+        "description": "Watch The Best DOCUMENTARY Films Extension",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DocumentaryArea.cs3",
+        "name": "DocumentaryArea"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuafilm.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 19722,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 8,
+        "internalName": "DonghuaFilm",
+        "description": "Donghua Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaFilm.cs3",
+        "name": "DonghuaFilm"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuaid.live/&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 33165,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 24,
+        "internalName": "DonghuaID",
+        "description": "DonghuaID Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaID.cs3",
+        "name": "DonghuaID"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuastream.org/&size=32",
+        "jarFileSize": 188744,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 37331,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 20,
+        "internalName": "DonghuaStream",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaStream.jar",
+        "description": "DonghuaStream Donghua Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaStream.cs3",
+        "name": "DonghuaStream"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 26136,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "kraptor123",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "Donghub",
+        "description": "DongHub Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Donghub.cs3",
+        "name": "Donghub"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dramadrip.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 100809,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "DramaDrip",
+        "description": "K-Drama,Dramas Extension by ModFlix Team",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DramaDrip.cs3",
+        "name": "DramaDrip"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dramafull.cc&size=32",
+        "jarFileSize": 84156,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 24369,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "DramaFull",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DramaFull.jar",
+        "description": "Kdramas and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DramaFull.cs3",
+        "name": "DramaFull"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://drama-id.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 27214,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 10,
+        "internalName": "DramaIndo",
+        "description": "DramaIndo Movie Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DramaIndo.cs3",
+        "name": "DramaIndo"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dubbindo.site&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 18577,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 6,
+        "internalName": "DubbIndo",
+        "description": "DubbIndo Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DubbIndo.cs3",
+        "name": "DubbIndo"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://madfoxmarketing.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 30921,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "DutaMovie",
+        "description": "DutaMovie",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DutaMovie.cs3",
+        "name": "DutaMovie"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://go1.wgfilm21.com&size=32",
+        "jarFileSize": 156579,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32654,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "Film21",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Film21.jar",
+        "description": "Film21 Movie",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Film21.cs3",
+        "name": "Film21"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmapik.boats&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 30598,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "FilmApik",
+        "description": "FilmApik Movie and Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FilmApik.cs3",
+        "name": "FilmApik"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://2x.jalanmaxwin.site&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32608,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "FilmKita",
+        "description": "FILM KITA Movie",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FilmKita.cs3",
+        "name": "FilmKita"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fufafilm.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32736,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "FuFaMovie",
+        "description": "FUFA Movie and Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FuFaMovie.cs3",
+        "name": "FuFaMovie"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://funmovieslix.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 24945,
+        "status": 2,
+        "language": "id",
+        "authors": [
+            "phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "FunMovieslix",
+        "description": "Streaming Film Movie dan Serial terbaru dari FunMovieslix",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FunMovieslix.cs3",
+        "name": "FunMovieslix"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gojodesu.com/&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 21738,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 8,
+        "internalName": "GojoDesu",
+        "description": "GojoDesu Anime Sub Indo",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/GojoDesu.cs3",
+        "name": "GojoDesu"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://idlixian.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 28690,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama"
+        ],
+        "version": 26,
+        "internalName": "Idlix",
+        "description": "IDLIX Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Idlix.cs3",
+        "name": "Idlix"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv2.kawanfilm21.co&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32529,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "KawanFilm",
+        "description": "KawanFilm Movie",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KawanFilm.cs3",
+        "name": "KawanFilm"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kazefuri.info&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 33169,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 57,
+        "internalName": "Kazefuri",
+        "description": "Kazefuri Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Kazefuri.cs3",
+        "name": "Kazefuri"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kickassanime.com.es/&size=32",
+        "jarFileSize": 239390,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 51876,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98,Hexated",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 24,
+        "internalName": "KickassAnime",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KickassAnime.jar",
+        "description": "Kickass Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KickassAnime.cs3",
+        "name": "KickassAnime"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kissasian.cam&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32050,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "KissAsia",
+        "description": "KissAsia",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KissAsia.cs3",
+        "name": "KissAsia"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 39730,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "KissKH",
+        "description": "KissKH Watch Drama Movie Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KissKH.cs3",
+        "name": "KissKH"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.klikxxi.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 24334,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 16,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI Movie dan series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KlikXXI.cs3",
+        "name": "KlikXXI"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kuronime.moe&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 30003,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 30,
+        "internalName": "Kuronime",
+        "description": "Kuronime AnimeKu Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Kuronime.cs3",
+        "name": "Kuronime"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lk21.de&size=32",
+        "jarFileSize": 103680,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 26462,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated,Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "LayarKaca21",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LayarKaca21.jar",
+        "description": "LayarKaca21 Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LayarKaca21.cs3",
+        "name": "LayarKaca21"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://play6.layarwarna21.tv&size=32",
+        "jarFileSize": 158987,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32604,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "LayarWarna",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LayarWarna.jar",
+        "description": "LayarWarna Streaming Movie.",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LayarWarna.cs3",
+        "name": "LayarWarna"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jorivet.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32378,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "LK21",
+        "description": "LK21 Movie and Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LK21.cs3",
+        "name": "LK21"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv12.melongmovies.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 31673,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 11,
+        "internalName": "MelongMovie",
+        "description": "MelongMovie dan Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MelongMovie.cs3",
+        "name": "MelongMovie"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
+        "jarFileSize": 145768,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 45204,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 9,
+        "internalName": "MovieBox",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MovieBox.jar",
+        "description": "MovieBox - Streaming Movie and Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MovieBox.cs3",
+        "name": "MovieBox"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 45218,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "NivinCNC",
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "MovieBoxIN",
+        "description": "Multi Language Movies and Series MovieBox (IN)",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MovieBoxIN.cs3",
+        "name": "MovieBoxIN"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
+        "jarFileSize": 148958,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 33627,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 6,
+        "internalName": "MovieBoxPH",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MovieBoxPH.jar",
+        "description": "MovieBoxPH - Streaming Movie and Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MovieBoxPH.cs3",
+        "name": "MovieBoxPH"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://netflixmirrorr.com/&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 55183,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Sushan64",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 49,
+        "internalName": "NetMirror",
+        "description": "Netflix Mirror, iclude : PrimeVideo, Disney+ Hotstar Watch Movie Contents in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NetMirror.cs3",
+        "name": "NetMirror"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new30.ngefilm.site&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32795,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "NgeFilm",
+        "description": "NgeFilm",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NgeFilm.cs3",
+        "name": "NgeFilm"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nimegami.id&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 27317,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 20,
+        "internalName": "Nimegami",
+        "description": "NimeGami Anime Series and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Nimegami.cs3",
+        "name": "Nimegami"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nimeindo.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 16825,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "NimeIndo",
+        "description": "NimeIndo Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NimeIndo.cs3",
+        "name": "NimeIndo"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nomat.site&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 23656,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "NoMat",
+        "description": "NontonHemat",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NoMat.cs3",
+        "name": "NoMat"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://onetouchtv.info/&size=32",
+        "jarFileSize": 183509,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 40872,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "OneTouchTV",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/OneTouchTV.jar",
+        "description": "OneTouch Asian Dramas",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/OneTouchTV.cs3",
+        "name": "OneTouchTV"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://oploverz.mom&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 30159,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 37,
+        "internalName": "Oploverz",
+        "description": "Oploverz Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Oploverz.cs3",
+        "name": "Oploverz"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://oppa.biz&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 28485,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "OppaDrama",
+        "description": "OppaDrama Movie and Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/OppaDrama.cs3",
+        "name": "OppaDrama"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://otakudesu.cloud&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 28066,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 21,
+        "internalName": "Otakudesu",
+        "description": "Otakudesu Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Otakudesu.cs3",
+        "name": "Otakudesu"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww99.pencurimovie.bond&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 19135,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "PencuriMovie",
+        "description": "Streaming FilmMovie dan Serial dari Pencurimovie",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/PencuriMovie.cs3",
+        "name": "PencuriMovie"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.pusatfilm21info.net&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 22159,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "PusatFilm",
+        "description": "PusatFilm is Streaming links for Movies and TV Series.",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/PusatFilm.cs3",
+        "name": "PusatFilm"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://carteretliteracy.org&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32531,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "PusatMovie",
+        "description": "Pusat Movie ",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/PusatMovie.cs3",
+        "name": "PusatMovie"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://samehadaku.care&size=32",
+        "jarFileSize": 75260,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 21487,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "Samehadaku",
+        "jarUrl": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Samehadaku.jar",
+        "description": "Samehadaku \u2014 Anime Sub Indo",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sarangfilm.world&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32494,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1n L\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "SarangMovie",
+        "description": "Sarang Movie - Film Streaming Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SarangMovie.cs3",
+        "name": "SarangMovie"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new13.savefilm21info.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 32498,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 17,
+        "internalName": "SaveMovie",
+        "description": "SAve Movie and Series Streaming",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SaveMovie.cs3",
+        "name": "SaveMovie"
+    },
+    {
+        "iconUrl": "https://static.wikitide.net/cloudstreamwiki/thumb/7/74/SoraStream.png/32px-SoraStream.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 142901,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "Sora",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 295,
+        "internalName": "SoraStream",
+        "description": "#1 Best Extention Streaming on MultiAPI",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://zoronime.com/wp-content/themes/zoronime/favicon.png?v=0.06",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "fileSize": 22098,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 8,
+        "internalName": "Zoronime",
+        "description": "Zoronime Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Zoronime.cs3",
+        "name": "Zoronime"
+    }
+]
