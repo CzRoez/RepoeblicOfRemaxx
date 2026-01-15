@@ -3,53 +3,7 @@
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.social&size=64",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 20488,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 5,
-        "internalName": "Anichin",
-        "description": "Anichin Social",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Anichin.cs3",
-        "name": "Anichin"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=64",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 33134,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "kraptor123",
-            "ZombX",
-            "H\u00e1nL\u00ec"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 50,
-        "internalName": "AnichinMoe( Only VIP ACCES )",
-        "description": "AnichinMoe Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/AnichinMoe( Only VIP ACCES ).cs3",
-        "name": "AnichinMoe( Only VIP ACCES )"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animasu.com&size=32",
-        "jarFileSize": 146708,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 30638,
+        "fileSize": 20616,
         "status": 1,
         "language": "id",
         "authors": [
@@ -62,17 +16,63 @@
             "OVA"
         ],
         "version": 6,
+        "internalName": "Anichin",
+        "description": "Anichin Social ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Anichin.cs3",
+        "name": "Anichin"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 33316,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "kraptor123",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 51,
+        "internalName": "AnichinMoe( Only VIP ACCES )",
+        "description": "AnichinMoe Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/AnichinMoe( Only VIP ACCES ).cs3",
+        "name": "AnichinMoe"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animasu.com&size=32",
+        "jarFileSize": 169087,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 33460,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
         "internalName": "Animasu",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Animasu.jar",
-        "description": "Animasu \u2014 Streaming Anime Sub Indo",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Animasu.cs3",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Animasu.jar",
+        "description": "Animasu \u2014 Streaming Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Animasu.cs3",
         "name": "Animasu"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/8dJmx78jMj4DiyLcHyV9s1js_pV-b1ewLQYiEO8bfJ3dGWT7rWM6IuiPIMAdXoE-ZQ=w0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21209,
+        "fileSize": 35438,
         "status": 1,
         "language": "id",
         "authors": [
@@ -86,18 +86,18 @@
             "OVA",
             "Anime"
         ],
-        "version": 27,
-        "internalName": "AnimeIndo",
-        "description": "AnimeIndo Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/AnimeIndo.cs3",
+        "version": 28,
+        "internalName": "AnimeIndo( Only VIP ACCES )",
+        "description": "AnimeIndo Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/AnimeIndo( Only VIP ACCES ).cs3",
         "name": "AnimeIndo"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animekhor.org/&size=32",
-        "jarFileSize": 96762,
+        "jarFileSize": 139650,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 23492,
+        "fileSize": 28809,
         "status": 1,
         "language": "id",
         "authors": [
@@ -112,16 +112,16 @@
         ],
         "version": 16,
         "internalName": "AnimeKhor",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/AnimeKhor.jar",
-        "description": "AnimeKhor Donghua Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/AnimeKhor.cs3",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/AnimeKhor.jar",
+        "description": "AnimeKhor Donghua Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/AnimeKhor.cs3",
         "name": "AnimeKhor"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://154.26.137.28&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21763,
+        "fileSize": 26265,
         "status": 1,
         "language": "id",
         "authors": [
@@ -134,18 +134,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "AnimeSail",
-        "description": "AnimeSail Anime Movie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/AnimeSail.cs3",
+        "description": "AnimeSail Anime Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/AnimeSail.cs3",
         "name": "AnimeSail"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexin.dev&size=32",
-        "jarFileSize": 70450,
+        "jarFileSize": 71379,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 18488,
+        "fileSize": 18904,
         "status": 1,
         "language": "id",
         "authors": [
@@ -158,18 +158,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "Animexin( Only VIP ACCES )",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Animexin.jar",
-        "description": "Anime and Movies From Animexin",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Animexin( Only VIP ACCES ).cs3",
-        "name": "Animexin( Only VIP ACCES )"
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Animexin( Only VIP ACCES ).jar",
+        "description": "Anime and Movies From Animexin ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Animexin( Only VIP ACCES ).cs3",
+        "name": "Animexin"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anixverseone.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 33120,
+        "fileSize": 33280,
         "status": 1,
         "language": "id",
         "authors": [
@@ -181,17 +181,17 @@
             "Anime",
             "OVA"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "AnixVerse",
-        "description": "AnixVerse \ud83e\ude90 Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/AnixVerse.cs3",
+        "description": "AnixVerse \ud83e\ude90 Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/AnixVerse.cs3",
         "name": "AnixVerse"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.anoboy.boo&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21678,
+        "fileSize": 31552,
         "status": 1,
         "language": "id",
         "authors": [
@@ -203,17 +203,17 @@
             "Anime",
             "OVA"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "Anoboy",
-        "description": "Anoboy Anime Sub Indo",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Anoboy.cs3",
+        "description": "Anoboy Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Anoboy.cs3",
         "name": "Anoboy"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://auratail.vip&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 20257,
+        "fileSize": 20354,
         "status": 1,
         "language": "id",
         "authors": [
@@ -225,39 +225,17 @@
             "Anime",
             "OVA"
         ],
-        "version": 18,
+        "version": 19,
         "internalName": "Auratail",
-        "description": "Streaming Anime dan Donghua AURATAIL",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Auratail.cs3",
+        "description": "Streaming Anime dan Donghua AURATAIL ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Auratail.cs3",
         "name": "Auratail"
-    },
-    {
-        "iconUrl": "https://yt3.googleusercontent.com/R5V1wZjW2CbRX-kRBhol53qspoZFmZZS67JZo6kTzvy7WJ7NdUmyP0b5n_6JfRE7LV4oQYdGlQ=s900-c-k-c0x00ffffff-no-rj",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 23895,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 8,
-        "internalName": "FilmAsia( Only VIP ACCES )",
-        "description": "FilmAsia Movie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/FilmAsia( Only VIP ACCES ).cs3",
-        "name": "FilmAsia( Only VIP ACCES )"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://m.cgv.id&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 190931,
+        "fileSize": 191130,
         "status": 1,
         "language": "id",
         "authors": [
@@ -272,33 +250,11 @@
             "Anime",
             "Movie"
         ],
-        "version": 231,
+        "version": 232,
         "internalName": "CGVMovie( Only VIP ACCES )",
-        "description": "CGVMovie And Series Streaming",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/CGVMovie( Only VIP ACCES ).cs3",
-        "name": "CGVMovie( Only VIP ACCES )"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuafilm.com&size=32",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 19879,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 7,
-        "internalName": "DonghuaFilm( Only VIP ACCES )",
-        "description": "Donghua Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DonghuaFilm( Only VIP ACCES ).cs3",
-        "name": "DonghuaFilm( Only VIP ACCES )"
+        "description": "CGVMovie And Series Streaming ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/CGVMovie( Only VIP ACCES ).cs3",
+        "name": "CGVMovie"
     },
     {    
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
@@ -318,15 +274,82 @@
         ],
         "version": 187,
         "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "name": "CineStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=32",
+        "jarFileSize": 62635,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 16319,
+        "status": 2,
+        "authors": [
+            "Luna712",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "DailyMotion",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DailyMotion.jar",
+        "description": "Watch Content from DailyaMotion ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DailyMotion.cs3",
+        "name": "DailyMotion"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://documentaryarea.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 20050,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "ByAyzen",
+            "Kraptor123",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "DocumentaryArea( Only VIP ACCES )",
+        "description": "Watch The Best DOCUMENTARY Films Extension ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DocumentaryArea( Only VIP ACCES ).cs3",
+        "name": "DocumentaryArea"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuafilm.com&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 37056,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 8,
+        "internalName": "DonghuaFilm( Only VIP ACCES )",
+        "description": "Donghua Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DonghuaFilm( Only VIP ACCES ).cs3",
+        "name": "DonghuaFilm"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuaid.live/&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 33164,
+        "fileSize": 33328,
         "status": 1,
         "language": "id",
         "authors": [
@@ -338,18 +361,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "DonghuaID( Only VIP ACCES )",
-        "description": "DonghuaID Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DonghuaID( Only VIP ACCES ).cs3",
-        "name": "DonghuaID( Only VIP ACCES )"
+        "description": "DonghuaID Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DonghuaID( Only VIP ACCES ).cs3",
+        "name": "DonghuaID"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuastream.org/&size=32",
-        "jarFileSize": 188098,
+        "jarFileSize": 192426,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 37181,
+        "fileSize": 38535,
         "status": 1,
         "language": "id",
         "authors": [
@@ -362,18 +385,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "DonghuaStream",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DonghuaStream.jar",
-        "description": "DonghuaStream Donghua Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DonghuaStream.cs3",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DonghuaStream.jar",
+        "description": "DonghuaStream Donghua Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DonghuaStream.cs3",
         "name": "DonghuaStream"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21673,
+        "fileSize": 26283,
         "status": 1,
         "language": "id",
         "authors": [
@@ -386,17 +409,41 @@
             "Anime",
             "OVA"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "Donghub",
-        "description": "DongHub Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Donghub.cs3",
+        "description": "DongHub Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Donghub.cs3",
         "name": "Donghub"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dramabox.com/&size=32",
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dramadrip.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 33384,
+        "fileSize": 54749,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "DramaDrip",
+        "description": "K-Drama,Dramas Extension by ModFlix Team ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DramaDrip.cs3",
+        "name": "DramaDrip"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dramafull.cc&size=32",
+        "jarFileSize": 84425,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 24585,
         "status": 1,
         "language": "id",
         "authors": [
@@ -410,87 +457,17 @@
             "Movie"
         ],
         "version": 7,
-        "internalName": "DramaBox( Only VIP ACCES )",
-        "description": "DramaBox K-Drama,Dramas,Serial Asia",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DramaBox( Only VIP ACCES ).cs3",
-        "name": "DramaBox( Only VIP ACCES )"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://palapamovie.digital/&size=32",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 24006,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Phisher98",
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 8,
-        "internalName": "DrakorID( Only VIP ACCES )",
-        "description": "DrakorID K-Drama,Dramas Extension",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DrakorID( Only VIP ACCES ).cs3",
-        "name": "DrakorID( Only VIP ACCES )"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dramadrip.com&size=32",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 100811,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Phisher98",
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 8,
-        "internalName": "DramaDrip",
-        "description": "K-Drama,Dramas Extension by ModFlix Team",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DramaDrip.cs3",
-        "name": "DramaDrip"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dramafull.cc&size=32",
-        "jarFileSize": 84165,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 24361,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Phisher98",
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
         "internalName": "DramaFull",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DramaFull.jar",
-        "description": "Kdramas and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DramaFull.cs3",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DramaFull.jar",
+        "description": "K_Dramas and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DramaFull.cs3",
         "name": "DramaFull"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://drama-id.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 27040,
+        "fileSize": 27787,
         "status": 1,
         "language": "id",
         "authors": [
@@ -498,21 +475,21 @@
             "ZombX"
         ],
         "tvTypes": [
-            "AsianDrama",
+            "Movie",
             "TvSeries",
-            "Movie"
+            "AsianDrama"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "DramaIndo( Only VIP ACCES )",
-        "description": "DramaIndo Movie Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DramaIndo( Only VIP ACCES ).cs3",
-        "name": "DramaIndo( Only VIP ACCES )"
+        "description": "DramaIndo Movie Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DramaIndo( Only VIP ACCES ).cs3",
+        "name": "DramaIndo"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dubbindo.site&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 17837,
+        "fileSize": 18786,
         "status": 1,
         "language": "id",
         "authors": [
@@ -527,17 +504,17 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "DubbIndo",
-        "description": "DubbIndo Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DubbIndo.cs3",
+        "description": "DubbIndo Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DubbIndo.cs3",
         "name": "DubbIndo"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://madfoxmarketing.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 30856,
+        "fileSize": 38841,
         "status": 1,
         "language": "id",
         "authors": [
@@ -551,18 +528,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "DutaMovie",
-        "description": "DutaMovie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/DutaMovie.cs3",
+        "description": "DutaMovie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/DutaMovie.cs3",
         "name": "DutaMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://go1.wgfilm21.com&size=32",
-        "jarFileSize": 156518,
+        "jarFileSize": 180780,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32671,
+        "fileSize": 37793,
         "status": 1,
         "language": "id",
         "authors": [
@@ -574,18 +551,62 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
+        "internalName": "Film21( Only VIP ACCES )",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Film21( Only VIP ACCES ).jar",
+        "description": "Film21 Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Film21( Only VIP ACCES ).cs3",
+        "name": "Film21"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmapik.boats&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 30840,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "FilmApik",
+        "description": "FilmApik Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/FilmApik.cs3",
+        "name": "FilmApik"
+    },
+    {
+        "iconUrl": "https://yt3.googleusercontent.com/R5V1wZjW2CbRX-kRBhol53qspoZFmZZS67JZo6kTzvy7WJ7NdUmyP0b5n_6JfRE7LV4oQYdGlQ=s900-c-k-c0x00ffffff-no-rj",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 23895,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 24,
         "internalName": "FilmAsia( Only VIP ACCES )",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Film21.jar",
-        "description": "Film21 Movie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/FilmAsia( Only VIP ACCES ).cs3",
-        "name": "FilmAsia( Only VIP ACCES )"
+        "description": "FilmAsia Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/FilmAsia( Only VIP ACCES ).cs3",
+        "name": "FilmAsia"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://2x.jalanmaxwin.site&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32661,
+        "fileSize": 41788,
         "status": 1,
         "language": "id",
         "authors": [
@@ -597,17 +618,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 5,
         "internalName": "FilmKita( Only VIP ACCES )",
-        "description": "FILM KITA Movie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/FilmKita( Only VIP ACCES ).cs3",
-        "name": "FilmKita( Only VIP ACCES )"
+        "description": "FILM KITA Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/FilmKita( Only VIP ACCES ).cs3",
+        "name": "FilmKita"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fufafilm.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32561,
+        "fileSize": 42903,
         "status": 1,
         "language": "id",
         "authors": [
@@ -619,17 +640,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 9,
         "internalName": "FuFaMovie( Only VIP ACCES )",
-        "description": "FUFA Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/FuFaMovie( Only VIP ACCES ).cs3",
-        "name": "FuFaMovie( Only VIP ACCES )"
+        "description": "FUFA Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/FuFaMovie( Only VIP ACCES ).cs3",
+        "name": "FuFaMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://funmovieslix.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 24416,
+        "fileSize": 25084,
         "status": 2,
         "language": "id",
         "authors": [
@@ -642,17 +663,39 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "FunMovieslix",
-        "description": "Streaming Film Movie dan Serial terbaru dari FunMovieslix",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/FunMovieslix.cs3",
+        "description": "Streaming Film Movie dan Serial terbaru dari FunMovieslix ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/FunMovieslix.cs3",
         "name": "FunMovieslix"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gojodesu.com/&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 29963,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 8,
+        "internalName": "GojoDesu( Only VIP ACCES )",
+        "description": "GojoDesu Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/GojoDesu( Only VIP ACCES ).cs3",
+        "name": "GojoDesu"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://idlixian.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 28525,
+        "fileSize": 29010,
         "status": 1,
         "language": "id",
         "authors": [
@@ -665,33 +708,11 @@
             "Movie",
             "AsianDrama"
         ],
-        "version": 25,
+        "version": 26,
         "internalName": "Idlix",
-        "description": "IDLIX Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Idlix.cs3",
+        "description": "IDLIX Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Idlix.cs3",
         "name": "Idlix"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv2.kawanfilm21.co&size=32",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32478,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "KawanFilm( Only VIP ACCES )",
-        "description": "KawanFilm Movie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KawanFilm( Only VIP ACCES ).cs3",
-        "name": "KawanFilm( Only VIP ACCES )"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://idmxl.ink&size=32",
@@ -709,17 +730,39 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "IndoMaxx( Only VIP ACCES )",
-        "description": "IndoMaxx Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/IndoMaxx( Only VIP ACCES ).cs3",
-        "name": "IndoMaxx( Only VIP ACCES )"
+        "description": "IndoMaxx Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/IndoMaxx( Only VIP ACCES ).cs3",
+        "name": "IndoMaxx"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv2.kawanfilm21.co&size=32",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 42661,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "KawanFilm( Only VIP ACCES )",
+        "description": "KawanFilm Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KawanFilm( Only VIP ACCES ).cs3",
+        "name": "KawanFilm"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kazefuri.info&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 33115,
+        "fileSize": 33487,
         "status": 1,
         "language": "id",
         "authors": [
@@ -731,18 +774,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 56,
+        "version": 57,
         "internalName": "Kazefuri( Only VIP ACCES )",
-        "description": "Kazefuri Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Kazefuri( Only VIP ACCES ).cs3",
-        "name": "Kazefuri( Only VIP ACCES )"
+        "description": "Kazefuri Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Kazefuri( Only VIP ACCES ).cs3",
+        "name": "Kazefuri"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kickassanime.com.es/&size=32",
-        "jarFileSize": 239126,
+        "jarFileSize": 244455,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 51735,
+        "fileSize": 53368,
         "status": 1,
         "language": "id",
         "authors": [
@@ -755,18 +798,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 23,
-        "internalName": "KickassAnime( Only VIP ACCES )",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KickassAnime.jar",
-        "description": "Kickass Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KickassAnime( Only VIP ACCES ).cs3",
-        "name": "KickassAnime( Only VIP ACCES )"
+        "version": 24,
+        "internalName": "KickassAnime",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KickassAnime.jar",
+        "description": "Kickass Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KickassAnime.cs3",
+        "name": "KickassAnime"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kissasian.cam&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 31826,
+        "fileSize": 32174,
         "status": 1,
         "language": "id",
         "authors": [
@@ -778,33 +821,33 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "KissAsia( Only VIP ACCES )",
-        "description": "KissAsia",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KissAsia( Only VIP ACCES ).cs3",
-        "name": "KissAsia( Only VIP ACCES )"
+        "description": "KissAsia ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KissAsia( Only VIP ACCES ).cs3",
+        "name": "KissAsia"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.co&size=32",
-        "jarFileSize": 110555,
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id&size=32",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 25175,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 39900,
         "status": 1,
-        "language": "en",
+        "language": "id",
         "authors": [
-            "Phisher98,Hexated,Peerless"
+            "phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
         ],
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
-        "internalName": "KisskKH",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
-        "description": "KisskKH Streaming Movie and Series Drama Asia",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
+        "version": 10,
+        "internalName": "KissKH( Only VIP ACCES )",
+        "description": "KissKH Watch Drama Movie Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KissKH( Only VIP ACCES ).cs3",
         "name": "KissKH"
     },
     {
@@ -824,18 +867,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
-        "internalName": "KitaNonton",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KitaNonton.jar",
-        "description": "Kita Nonton Streaming Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KitaNonton.cs3",
+        "version": 17,
+        "internalName": "KitaNonton( Only VIP ACCES )",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KitaNonton.jar",
+        "description": "Kita Nonton Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KitaNonton( Only VIP ACCES ).cs3",
         "name": "KitaNonton"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.klikxxi.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 24270,
+        "fileSize": 24393,
         "status": 1,
         "language": "id",
         "authors": [
@@ -847,17 +890,17 @@
             "TvSeries",
             "AsianDrama"
         ],
-        "version": 15,
-        "internalName": "KlikXXI( Only VIP ACCES )",
-        "description": "KlikXXI Movie dan series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/KlikXXI( Only VIP ACCES ).cs3",
-        "name": "KlikXXI( Only VIP ACCES )"
+        "version": 16,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI Movie dan series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/KlikXXI.cs3",
+        "name": "KlikXXI"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kuronime.moe&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 29818,
+        "fileSize": 30228,
         "status": 1,
         "language": "id",
         "authors": [
@@ -870,18 +913,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "Kuronime",
-        "description": "Kuronime AnimeKu Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Kuronime.cs3",
+        "description": "Kuronime AnimeKu Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Kuronime.cs3",
         "name": "Kuronime"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lk21.de&size=32",
-        "jarFileSize": 96489,
+        "jarFileSize": 162690,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 24170,
+        "fileSize": 36900,
         "status": 1,
         "language": "id",
         "authors": [
@@ -894,19 +937,19 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "LayarKaca21",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/LayarKaca21.jar",
-        "description": "LayarKaca21 Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/LayarKaca21.cs3",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/LayarKaca21.jar",
+        "description": "LayarKaca21 Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/LayarKaca21.cs3",
         "name": "LayarKaca21"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://play6.layarwarna21.tv&size=32",
-        "jarFileSize": 158629,
+        "jarFileSize": 201749,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32545,
+        "fileSize": 39587,
         "status": 1,
         "language": "id",
         "authors": [
@@ -918,18 +961,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "LayarWarna( Only VIP ACCES )",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/LayarWarna.jar",
-        "description": "LayarWarna Streaming Movie.",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/LayarWarna( Only VIP ACCES ).cs3",
-        "name": "LayarWarna( Only VIP ACCES )"
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/LayarWarna.jar",
+        "description": "LayarWarna Streaming Movie. ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/LayarWarna( Only VIP ACCES ).cs3",
+        "name": "LayarWarna"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jorivet.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32401,
+        "fileSize": 41914,
         "status": 1,
         "language": "id",
         "authors": [
@@ -941,17 +984,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "LK21( Only VIP ACCES )",
-        "description": "LK21 Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/LK21( Only VIP ACCES ).cs3",
-        "name": "LK21( Only VIP ACCES )"
+        "description": "LK21 Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/LK21( Only VIP ACCES ).cs3",
+        "name": "LK21"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv12.melongmovies.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 31677,
+        "fileSize": 40730,
         "status": 1,
         "language": "id",
         "authors": [
@@ -963,11 +1006,11 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 10,
-        "internalName": "MelongMovie( Only VIP ACCES )",
-        "description": "MelongMovie dan Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MelongMovie( Only VIP ACCES ).cs3",
-        "name": "MelongMovie( Only VIP ACCES )"
+        "version": 11,
+        "internalName": "MelongMovie",
+        "description": "MelongMovie dan Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MelongMovie.cs3",
+        "name": "MelongMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ssstik.tv&size=32",
@@ -985,18 +1028,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "MidasMovie( Only VIP ACCES )",
-        "description": "MidasMovieLive",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MidasMovie( Only VIP ACCES ).cs3",
-        "name": "MidasMovie( Only VIP ACCES )"
+        "description": "MidasMovieLive ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MidasMovie( Only VIP ACCES ).cs3",
+        "name": "MidasMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
-        "jarFileSize": 145777,
+        "jarFileSize": 154862,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 45199,
+        "fileSize": 48205,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1011,16 +1054,16 @@
         ],
         "version": 9,
         "internalName": "MovieBox( Only VIP ACCES )",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MovieBox.jar",
-        "description": "MovieBox - Streaming Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MovieBox( Only VIP ACCES ).cs3",
-        "name": "MovieBox( Only VIP ACCES )"
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MovieBox( Only VIP ACCES ).jar",
+        "description": "MovieBox - Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MovieBox( Only VIP ACCES ).cs3",
+        "name": "MovieBox"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 45225,
+        "fileSize": 48230,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1035,16 +1078,16 @@
         ],
         "version": 8,
         "internalName": "MovieBoxIN",
-        "description": "Multi Language Movies and Series MovieBox (IN)",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MovieBoxIN.cs3",
+        "description": "Multi Language Movies and Series MovieBox (IN) ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MovieBoxIN.cs3",
         "name": "MovieBoxIN"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
-        "jarFileSize": 148967,
+        "jarFileSize": 149159,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 33638,
+        "fileSize": 33823,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1057,41 +1100,18 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "MovieBoxPH( Only VIP ACCES )",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MovieBoxPH.jar",
-        "description": "MovieBoxPH - Streaming Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/MovieBoxPH( Only VIP ACCES ).cs3",
-        "name": "MovieBoxPH( Only VIP ACCES )"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://neonime.ink&size=32",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 20771,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated",
-            "ZombX",
-            "H\u00e1nL\u00ec"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 24,
-        "internalName": "Neonime",
-        "description": "NEONIME Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Neonime.cs3",
-        "name": "Neonime"
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MovieBoxPH( Only VIP ACCES ).jar",
+        "description": "MovieBoxPH - Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/MovieBoxPH( Only VIP ACCES ).cs3",
+        "name": "MovieBoxPH"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://netflixmirrorr.com/&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 55174,
+        "fileSize": 55388,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1103,17 +1123,17 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 48,
-        "internalName": "NetMirror",
-        "description": "Netflix Mirror, iclude : PrimeVideo, Disney+ Hotstar Watch Movie Contents in Multiple Languages",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/NetMirror.cs3",
+        "version": 49,
+        "internalName": "NetMirror( Only VIP ACCES )",
+        "description": "Netflix Mirror, iclude : PrimeVideo, Disney+ Hotstar Watch Movie Contents in Multiple Languages ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/NetMirror( Only VIP ACCES ).cs3",
         "name": "NetMirror"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new30.ngefilm.site&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32733,
+        "fileSize": 42473,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1127,15 +1147,15 @@
         ],
         "version": 7,
         "internalName": "NgeFilm( Only VIP ACCES )",
-        "description": "NgeFilm",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/NgeFilm( Only VIP ACCES ).cs3",
-        "name": "NgeFilm( Only VIP ACCES )"
+        "description": "NgeFilm ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !!",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/NgeFilm( Only VIP ACCES ).cs3",
+        "name": "NgeFilm"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nimegami.id&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 27233,
+        "fileSize": 27387,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1148,17 +1168,17 @@
             "Anime",
             "OVA"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "Nimegami",
-        "description": "NimeGami Anime Series and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Nimegami.cs3",
+        "description": "NimeGami Anime Series and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Nimegami.cs3",
         "name": "Nimegami"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nimeindo.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 16753,
+        "fileSize": 28078,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1170,17 +1190,17 @@
             "Anime",
             "OVA"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "NimeIndo",
-        "description": "NimeIndo Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/NimeIndo.cs3",
+        "description": "NimeIndo Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/NimeIndo.cs3",
         "name": "NimeIndo"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nomat.site&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 23374,
+        "fileSize": 35762,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1192,18 +1212,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "NoMat",
-        "description": "NontonHemat",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/NoMat.cs3",
+        "description": "Nonton Hemat ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/NoMat.cs3",
         "name": "NoMat"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://onetouchtv.info/&size=32",
-        "jarFileSize": 183518,
+        "jarFileSize": 183701,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 40872,
+        "fileSize": 41019,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1216,18 +1236,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 6,
         "internalName": "OneTouchTV",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/OneTouchTV.jar",
-        "description": "OneTouch Asian Dramas",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/OneTouchTV.cs3",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/OneTouchTV.jar",
+        "description": "OneTouch Asian Dramas ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/OneTouchTV.cs3",
         "name": "OneTouchTV"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://oploverz.mom&size=32",
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anime.oploverz.ac&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 30178,
+        "fileSize": 30863,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1240,17 +1260,39 @@
             "Anime",
             "OVA"
         ],
-        "version": 36,
-        "internalName": "Oploverz( Only VIP ACCES )",
-        "description": "Oploverz Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Oploverz( Only VIP ACCES ).cs3",
-        "name": "Oploverz( Only VIP ACCES )"
+        "version": 37,
+        "internalName": "Oploverz",
+        "description": "Oploverz Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Oploverz.cs3",
+        "name": "Oploverz"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/8dJmx78jMj4DiyLcHyV9s1js_pV-b1ewLQYiEO8bfJ3dGWT7rWM6IuiPIMAdXoE-ZQ=w0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "fileSize": 38679,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Oploverzs( Only VIP ACCES )",
+        "description": "OpLoverz V2 Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Oploverzs( Only VIP ACCES ).cs3",
+        "name": "OpLoverzs"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://oppa.biz&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 28329,
+        "fileSize": 28569,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1263,17 +1305,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "OppaDrama",
-        "description": "OppaDrama Movie and Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/OppaDrama.cs3",
+        "description": "OppaDrama Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/OppaDrama.cs3",
         "name": "OppaDrama"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://otakudesu.cloud&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 28070,
+        "fileSize": 28262,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1286,17 +1328,17 @@
             "Anime",
             "OVA"
         ],
-        "version": 19,
+        "version": 21,
         "internalName": "Otakudesu",
-        "description": "Otakudesu Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Otakudesu.cs3",
+        "description": "Otakudesu Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Otakudesu.cs3",
         "name": "Otakudesu"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww99.pencurimovie.bond&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 19026,
+        "fileSize": 24636,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1309,17 +1351,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
-        "internalName": "PencuriMovie",
-        "description": "Streaming FilmMovie dan Serial dari Pencurimovie",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/PencuriMovie.cs3",
+        "version": 8,
+        "internalName": "PencuriMovie( Only VIP ACCES )",
+        "description": "Streaming FilmMovie dan Serial dari Pencuri Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/PencuriMovie( Only VIP ACCES ).cs3",
         "name": "PencuriMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.pusatfilm21info.net&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21957,
+        "fileSize": 29811,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1333,17 +1375,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "PusatFilm",
-        "description": "PusatFilm is Streaming links for Movies and TV Series.",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/PusatFilm.cs3",
+        "description": "PusatFilm is Streaming links for Movies and TV Series. ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/PusatFilm.cs3",
         "name": "PusatFilm"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://carteretliteracy.org&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32628,
+        "fileSize": 42063,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1355,18 +1397,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "PusatMovie( Only VIP ACCES )",
-        "description": "Pusat Movie ",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/PusatMovie( Only VIP ACCES ).cs3",
-        "name": "PusatMovie( Only VIP ACCES )"
+        "description": "Pusat Movie  ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/PusatMovie( Only VIP ACCES ).cs3",
+        "name": "PusatMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://samehadaku.care&size=32",
-        "jarFileSize": 75078,
+        "jarFileSize": 168233,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21398,
+        "fileSize": 35543,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1378,18 +1420,18 @@
             "Anime",
             "OVA"
         ],
-        "version": 8,
-        "internalName": "Samehadaku",
-        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Samehadaku.jar",
-        "description": "Samehadaku \u2014 Anime Sub Indo",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Samehadaku.cs3",
+        "version": 9,
+        "internalName": "Samehadaku( Only VIP ACCES )",
+        "jarUrl": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Samehadaku.jar",
+        "description": "Samehadaku \u2014 Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Samehadaku( Only VIP ACCES ).cs3",
         "name": "Samehadaku"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sarangfilm.world&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32631,
+        "fileSize": 42035,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1401,17 +1443,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
-        "internalName": "SarangMovie( Only VIP ACCES )( Only VIP ACCES )",
-        "description": "Sarang Movie - Film Streaming Movie and TV Series",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/SarangMovie( Only VIP ACCES ).cs3",
-        "name": "SarangMovie( Only VIP ACCES )"
+        "version": 9,
+        "internalName": "SarangMovie( Only VIP ACCES )",
+        "description": "Sarang Movie - Film Streaming Movie and TV Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/SarangMovie( Only VIP ACCES ).cs3",
+        "name": "SarangMovie"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new13.savefilm21info.com&size=32",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 32646,
+        "fileSize": 42739,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1423,40 +1465,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "SaveMovie( Only VIP ACCES )",
-        "description": "SAve Movie and Series Streaming",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/SaveMovie( Only VIP ACCES ).cs3",
-        "name": "SaveMovie( Only VIP ACCES )"
-    },
-    {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "jarFileSize": 122789,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 28179,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Cartoon"
-        ],
-        "version": 16,
-        "internalName": "StreamPlay",
-        "jarUrl": "",
-        "description": "Multi API",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay"
+        "description": "SAve Movie and Series Streaming ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/SaveMovie( Only VIP ACCES ).cs3",
+        "name": "SaveMovie"
     },
     {
         "iconUrl": "https://static.wikitide.net/cloudstreamwiki/thumb/7/74/SoraStream.png/32px-SoraStream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 142875,
+        "fileSize": 143098,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1471,11 +1490,36 @@
             "Anime",
             "Movie"
         ],
-        "version": 294,
+        "version": 295,
         "internalName": "SoraStream",
-        "description": "#1 Best Extention Streaming on MultiAPI",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/SoraStream.cs3",
+        "description": "#1 Best Extention Streaming on MultiAPI ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/SoraStream.cs3",
         "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 780018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 511,
+        "internalName": "StreamPlay",
+        "description": "#1 best extention based on MultiAPI ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=64",
@@ -1497,7 +1541,7 @@
         ],
         "version": 20,
         "internalName": "SuperStream",
-        "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
+        "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream. ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperStream.cs3",
         "name": "SuperStream"
     },
@@ -1519,7 +1563,7 @@
         "version": 7,
         "internalName": "Watch32",
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.jar",
-        "description": "Watch movies and series from Watch32",
+        "description": "Watch movies and series from Watch32 ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES ",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.cs3",
         "name": "Watch32"                                   
     },
@@ -1527,7 +1571,7 @@
         "iconUrl": "https://zoronime.com/wp-content/themes/zoronime/favicon.png?v=0.06",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "fileSize": 21967,
+        "fileSize": 22288,
         "status": 1,
         "language": "id",
         "authors": [
@@ -1540,10 +1584,10 @@
             "Anime",
             "OVA"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "Zoronime",
-        "description": "Zoronime Anime and Movies",
-        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/Zoronime.cs3",
+        "description": "Zoronime Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/Zoronime.cs3",
         "name": "Zoronime"
     }
 ]
