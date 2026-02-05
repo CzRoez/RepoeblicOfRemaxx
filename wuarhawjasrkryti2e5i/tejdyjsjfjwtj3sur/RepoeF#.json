@@ -1,0 +1,9 @@
+{
+    "name": "MyRepoeblic",
+    "description": "CloudZtream Build Repoz",
+    "iconUrl": "https://googleusercontent.short.gy/MyRecon",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://googleusercontent.short.gy/NONTONFree"
+    ]
+}
