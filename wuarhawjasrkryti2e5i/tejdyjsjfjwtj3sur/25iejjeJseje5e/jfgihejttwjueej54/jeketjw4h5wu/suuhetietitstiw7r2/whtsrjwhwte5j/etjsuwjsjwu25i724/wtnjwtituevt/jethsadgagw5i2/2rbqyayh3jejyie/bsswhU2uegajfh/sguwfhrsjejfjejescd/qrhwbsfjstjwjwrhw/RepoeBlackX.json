@@ -1,9 +1,9 @@
 {
     "name": "MyRepoeblicX",
     "description": "CloudZtream Build Repoz",
-    "iconUrl": "https://pagea.uk/MyRecon",
+    "iconUrl": "https://s.id/MyRecon",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://pagea.uk/RePoeBlicOFF"
+      "https://s.id/RePoeBlicOFF"
     ]
 }
