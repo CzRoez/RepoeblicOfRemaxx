@@ -1,0 +1,1503 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AlQanime.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "AlQanime",
+        "internalName": "AlQanime",
+        "authors": [
+            "kraptor123",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "AlQanime Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 35239,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alqanime.net&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-d0a97fe4c856f353ea7dfa682f6f8fd8b0264acd64801103b217f4f9f814b617"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Anichin.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "Anichin",
+        "internalName": "Anichin",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Anichin Social ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 23836,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.social&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-0e248a97e86a75e2baa0ee7bae9a25dc581768131d30a15eaed9d241d683a310"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnichinMoe.cs3",
+        "status": 1,
+        "version": 53,
+        "name": "AnichinMoe",
+        "internalName": "AnichinMoe",
+        "authors": [
+            "kraptor123",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "AnichinMoe Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 44290,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-05243a1d05e66f38ef8e0e52acba1e2858d8650c178c0aed097f44dfe1050f1e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Animasu.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "Animasu",
+        "internalName": "Animasu",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Animasu \u2014 Streaming Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 45195,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animasu.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-cc404244da883a326ef708c0fd095a8254e104566c380906f1ba880dde5f277b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeIndo.cs3",
+        "status": 1,
+        "version": 29,
+        "name": "AnimeIndo",
+        "internalName": "AnimeIndo",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "AnimeIndo Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 27878,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "iconUrl": "https://play-lh.googleusercontent.com/8dJmx78jMj4DiyLcHyV9s1js_pV-b1ewLQYiEO8bfJ3dGWT7rWM6IuiPIMAdXoE-ZQ=w0",
+        "apiVersion": 1,
+        "fileHash": "sha256-0e62868ca3a10638d051760b4ae7e2a19f115e47c92c45f81dd5f601f7bf6bd7"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeKhor.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "AnimeKhor",
+        "internalName": "AnimeKhor",
+        "authors": [
+            "Phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "AnimeKhor Donghua Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 39024,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animekhor.org/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-e1cfcda9be2a5166c6b4c72357296426ba291e06781de273fb38c62879b1e08a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnimeSail.cs3",
+        "status": 1,
+        "version": 23,
+        "name": "AnimeSail",
+        "internalName": "AnimeSail",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "AnimeSail Anime Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 33505,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://154.26.137.28&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-de4b6ebf4c68d89317ac3b4cd48b21329ece2d11c80d34b669b4b3084f039467"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Animexin.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "Animexin",
+        "internalName": "Animexin",
+        "authors": [
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "Anime and Movies From Animexin ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 24825,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexin.dev&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-fbc9dcffab12d15d6f34db9b339fd82e7ba7c4e0a6aec10a235d56fc2d82b8e5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/AnixVerse.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "AnixVerse",
+        "internalName": "AnixVerse",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "AnixVerse \ud83e\ude90 Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 44347,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anixverseone.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-d515ff00617c365245c9f186c1e4540c44c652c8bf58765e19b2739a6ac9cd87"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Anoboy.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "Anoboy",
+        "internalName": "Anoboy",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Anoboy Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 42020,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.anoboy.boo&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-076c6e10247851e044e0f7816ceb29f330f06b931b5df92e420259a629c1c53a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/CGVMovie.cs3",
+        "status": 1,
+        "version": 236,
+        "name": "CGVMovie",
+        "internalName": "CGVMovie",
+        "authors": [
+            "Hexated",
+            "Dromz",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "CGVMovie And Series Streaming ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 231668,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://m.cgv.id&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-61562a7592a6702903168ea762758564f3f74a037ebde2ecc3e76a519efc96c0"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DailyMotion.cs3",
+        "status": 2,
+        "version": 8,
+        "name": "DailyMotion",
+        "internalName": "DailyMotion",
+        "authors": [
+            "Luna712",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "Watch Content from DailyaMotion ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 41510,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "tvTypes": [
+            "Others"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-4e4d643621f8580d2274f8e9bb8ce6f789911c148613442ff18c4f490766915b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DocumentaryArea.cs3",
+        "status": 1,
+        "version": 16,
+        "name": "DocumentaryArea",
+        "internalName": "DocumentaryArea",
+        "authors": [
+            "ByAyzen",
+            "Kraptor123",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Watch The Best DOCUMENTARY Films Extension ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 23538,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://documentaryarea.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-e65677a6d543c9ec6ae0d72b9755567a21a69ee0eede13c707960e094b8abd84"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaFilm.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "DonghuaFilm",
+        "internalName": "DonghuaFilm",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Donghua Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 47476,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuafilm.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-df80c1bd081b374f8ddc4e7fe923b16a28464561e4838ec5557d8ae11c32211a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaID.cs3",
+        "status": 1,
+        "version": 26,
+        "name": "DonghuaID",
+        "internalName": "DonghuaID",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "DonghuaID Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 49316,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuaid.live/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-ab82bbadbf5c988eafcf80698200bae96cae088056c282f498b79a8d76beea09"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DonghuaStream.cs3",
+        "status": 1,
+        "version": 22,
+        "name": "DonghuaStream",
+        "internalName": "DonghuaStream",
+        "authors": [
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "DonghuaStream Donghua Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 46401,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuastream.org/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-8181eedff8ffda710edfd3542e30a31fd1afbd448348045f28a9452453a79d2b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Donghub.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "Donghub",
+        "internalName": "Donghub",
+        "authors": [
+            "kraptor123",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "DongHub Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 40035,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-edbec22ca779a62003974ad0f0ebff20046e36df08bda161ae4d387c8f67621a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DramaAsia.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "DramaAsia",
+        "internalName": "DramaAsia",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "DramaAsia Streaming Movie. ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 34337,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asiadrama.net//&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-1b3aede28ebb773eb4f8962b62a45cca073e4ba3288dd898f4ab6a053caa84db"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DubbIndo.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "DubbIndo",
+        "internalName": "DubbIndo",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "DubbIndo Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 21626,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dubbindo.site&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-0edc9289e2c3eb2e3df38992c04059b3de3dddbfdc6f259ec49c5504a014871a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DuniaFilm21.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "DuniaFilm21",
+        "internalName": "DuniaFilm21",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Dunia Film Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 53210,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://207.180.246.102/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-89478fe47bfd7b1418af07eb2b2dc17c9cfededc5ae145186d3bd874418b8b8f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/DutaMovie.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "DutaMovie",
+        "internalName": "DutaMovie",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "DutaMovie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 55011,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://madfoxmarketing.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-ad91ef113f5817e4d87daed86c06a9fe97a87f155758a1d4f87f5bfab38b815f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Film21.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "Film21",
+        "internalName": "Film21",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Film21 Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 75805,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv13.filem21.net&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-1b3924beea21b41855517aabcaa037f58ff1e213e39e520a61e6f1340562d54c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FilmKita.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "FilmKita",
+        "internalName": "FilmKita",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "FILM KITA Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 29433,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://2x.jalanmaxwin.site&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-91c09a2be443b800d160bcdc7fd532652ed4825295ce9f12156ef5a3e8f688db"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FilmLokal.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "FilmLokal",
+        "internalName": "FilmLokal",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Lokal Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 62817,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://tv1.filmlokal.me/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-6dd59ad3cc1ada790efe9e3a00a690554cfda007d0b9d63a11f07a268e9f1738"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/FreeReels.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "FreeReels",
+        "internalName": "FreeReels",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "FreeReels Short Drama ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 79001,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://free-reels.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-3b7690c6863ecb57987db881ffaf4fbf6e0a1fac0301cd88c08ee618f618b610"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Gomunime.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Gomunime",
+        "internalName": "Gomunime",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "GomuNime Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 30390,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://gomunime.top/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-08879a6a0b70ae83fdbd3989560f9a49ed336d749f978a0dadb1fa7b4f016af8"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/HidoriStream.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "HidoriStream",
+        "internalName": "HidoriStream",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "Anime and Movies From HidoriStream ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 54375,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-caf565784564be2029efb9a2d2417af6058f7593b8f54ec0a7f9c874d0f810c5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Idlix.cs3",
+        "status": 1,
+        "version": 29,
+        "name": "Idlix",
+        "internalName": "Idlix",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "IDLIX Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 66840,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://idlixian.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-cabbed53e5ec0c7b4504ad75bcc7016e98324fa9e36c91a9b1c920d8be76a121"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/IndoMax21.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "IndoMax21",
+        "internalName": "IndoMax21",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "IndoMax21 \u2014 Streaming Anime, Donghua, Movie and TV Series( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 32453,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://elhombreamadecasa.com//&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-d0c80e4ae5eba6427c149dfa02ccb84e68bc79563a4682e9cf65b8b37d6c7f1a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/JomNonton.cs3",
+        "status": 1,
+        "version": 17,
+        "name": "JomNonton",
+        "internalName": "JomNonton",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Jom Nonton Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 58125,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ayononton.live&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-f3bed869be3385886271e361fc047904275b0449d08551455a4d8d1d219200f6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/JuraganFilm.cs3",
+        "status": 1,
+        "version": 22,
+        "name": "JuraganFilm",
+        "internalName": "JuraganFilm",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "JuraganFilm ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 67959,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv45.juragan.film&sz=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-550e69a407516a0b45e15b255fb26718bb3fb7b2216322973c9c1b7ef5b4bf84"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KawanFilm.cs3",
+        "status": 1,
+        "version": 69,
+        "name": "KawanFilm",
+        "internalName": "KawanFilm",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "KawanFilm Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 60463,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tv2.kawanfilm21.co&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-60c0227ba01830490672b3a1dfb6ada9fa01e7d413466a00ad45b41adedf2b7a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Kazefuri.cs3",
+        "status": 1,
+        "version": 59,
+        "name": "Kazefuri",
+        "internalName": "Kazefuri",
+        "authors": [
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "Kazefuri Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 44460,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kazefuri.id&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-77f6226735cc0efe5377cf17989dc546e890e2453fec6e2f7729ab7ef9677631"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KickassAnime.cs3",
+        "status": 1,
+        "version": 26,
+        "name": "KickassAnime",
+        "internalName": "KickassAnime",
+        "authors": [
+            "Phisher98,Hexated",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "Kickass Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 59264,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kickassanime.com.es/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-726bbde42337994dcaa3f733f6fa389e748963fd8d6cc7cf543567c81478e004"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KissAsia.cs3",
+        "status": 1,
+        "version": 17,
+        "name": "KissAsia",
+        "internalName": "KissAsia",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "KissAsia ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 37268,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kissasian.cam&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-f31a81740d52090e1647065538875e55aa0a3372d30cff431bdee0a9320c06af"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KissKH.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "KissKH",
+        "internalName": "KissKH",
+        "authors": [
+            "phisher98",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "KissKH Watch Drama Movie Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 45330,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kisskh.id&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-a3b642b62dae7c125bcfffc7a2dc1eac50c43642901b361cd8719d80c9374937"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/KlikXXI.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "KlikXXI",
+        "internalName": "KlikXXI",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "KlikXXI Movie dan series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 27536,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.klikxxi.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-6da6fecf3bbe1094502b58247814131a14dd28226cff7bda95c28378057db7ec"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Kuramanime.cs3",
+        "status": 1,
+        "version": 54,
+        "name": "Kuramanime",
+        "internalName": "Kuramanime",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Kuramanime Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 40735,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://m3.kuramanime.ink/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-ea78d0a7705a7c5c8d46817a8009d320337b30270fef533dc5a24c8851a05ac9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Kuronime.cs3",
+        "status": 1,
+        "version": 42,
+        "name": "Kuronime",
+        "internalName": "Kuronime",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Kuronime AnimeKu Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 33671,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kuronime.moe&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-caf7cddf8c6f3540bd2093d231cab67052d0fb77660f6c31268079b1af89156e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LayarKaca21.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "LayarKaca21",
+        "internalName": "LayarKaca21",
+        "authors": [
+            "Hexated,Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "LayarKaca21 Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 50321,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lk21.de&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-11d9cdfdf52f72d03c4a4ce445a761b73bb79f51a668dc0551f4a92f671882f9"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LayarWarna.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "LayarWarna",
+        "internalName": "LayarWarna",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "LayarWarna Streaming Movie. ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 56130,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://play6.layarwarna21.tv&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-e4a202fa338159620419e4c2c6c39aecfc08c7ec3f570151a49e66cb3dec2188"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/LK21.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "LK21",
+        "internalName": "LK21",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "LK21 Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 57789,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://143.198.216.103/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-16e85c72de65bddb593891176f049dd9f73c5ac614cc3d9aa8fee2e15b40329e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/MovieBoxPH.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "MovieBoxPH",
+        "internalName": "MovieBoxPH",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "MovieBoxPH - Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 38105,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-34009500c72ac30251da7bcd591c140718318112daa241206cd55b49cf8e8d83"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NgeFilm.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "NgeFilm",
+        "internalName": "NgeFilm",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "NgeFilm ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !!",
+        "fileSize": 58372,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new30.ngefilm.site&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-29b48f73208284656886b8738a27ad1dfb2fc59f726c592809e98323eb4d83a2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Nimegami.cs3",
+        "status": 1,
+        "version": 24,
+        "name": "Nimegami",
+        "internalName": "Nimegami",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "NimeGami Anime Series and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 34182,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nimegami.id&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-ae32e9ca89cd23a7927294b8ccf7ef5fa3a605a93d2ae390a4ede802cce122df"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NoMat.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "NoMat",
+        "internalName": "NoMat",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Nonton Hemat ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 53099,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nomat.shop&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-be73304faaa571de2c6f8ec96616845cffde9a631c975dfc27899fe7d141f0e5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/NontonAnimeID.cs3",
+        "status": 1,
+        "version": 31,
+        "name": "NontonAnimeID",
+        "internalName": "NontonAnimeID",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "NontonAnimeID Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 65559,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s13.nontonanimeid.boats//&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-f4479fcf1590359be94ccf96e269d4fe3af22aa5a162a23e237ea83497b46fee"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Noxx.cs3",
+        "status": 1,
+        "version": 11,
+        "name": "Noxx",
+        "internalName": "Noxx",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Noxx Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 57011,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://noxx.to/&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-c724123b4d4ad01d8fe28e445b3419d674732b4fb10d9c54ee818a61e771b305"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/OneTouchTV.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "OneTouchTV",
+        "internalName": "OneTouchTV",
+        "authors": [
+            "Phisher98",
+            "ZombX",
+            "H\u00e1nL\u00ec"
+        ],
+        "description": "OneTouch Asian Dramas ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 42629,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://onetouchtv.info/&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-46978658754ca4808d6908506da5e1d62c41b27d3ffaaac542a9f1adb52b245c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/OppaDrama.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "OppaDrama",
+        "internalName": "OppaDrama",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "OppaDrama Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 34212,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://oppa.biz&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-d9a174b6c439ff197de3f1b5c321be937e8089f79a55df3ebd69fbff2aa1e320"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Otakudesu.cs3",
+        "status": 1,
+        "version": 26,
+        "name": "Otakudesu",
+        "internalName": "Otakudesu",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Otakudesu Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 33181,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://otakudesu.cloud&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-e20e3c764db51498e41d895d8352b15b0804dd3f70d85a491ff174736b36f6ec"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/PusatFilm.cs3",
+        "status": 1,
+        "version": 21,
+        "name": "PusatFilm",
+        "internalName": "PusatFilm",
+        "authors": [
+            "Hexated",
+            "TeKuma25",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "PusatFilm is Streaming links for Movies and TV Series. ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 87736,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v1.pusatfilm21info.net&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-596a32f57b14547d51d199ac628d84c5187eae7865a1f28df53c0921b058daac"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/ReyNime.cs3",
+        "status": 1,
+        "version": 27,
+        "name": "ReyNime",
+        "internalName": "ReyNime",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "ReyNime ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 92357,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://reynime.my.id/&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-b826a252257627260f651e7f1eb749446ec856c24222086428aabd68708f1da5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Samehadaku.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "Samehadaku",
+        "internalName": "Samehadaku",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Samehadaku \u2014 Anime Sub Indo ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 51338,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://samehadaku.care&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-66759f13ace727775673c0bb28b733b19cb069b486484ce31edcb2e3243eafd1"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SarangMovie.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "SarangMovie",
+        "internalName": "SarangMovie",
+        "authors": [
+            "H\u00e1n L\u00ec",
+            "ZombX"
+        ],
+        "description": "Sarang Movie - Film Streaming Movie and TV Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 57968,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sarangfilm.world&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-707a9e4c5643b965f633d0107c50c143911a587cf63bce59c40f65b6efe08eb7"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SaveMovie.cs3",
+        "status": 1,
+        "version": 20,
+        "name": "SaveMovie",
+        "internalName": "SaveMovie",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "SAve Movie and Series Streaming ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 58641,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new13.savefilm21info.com&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-d0d5211e693c5510b6974f14be88d7354474b71663e99936d9640e3f4bb54400"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SFlix.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "SFlix",
+        "internalName": "SFlix",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "SFLIX Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 43294,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-b85b8bb0876e6f755a24e393c12e4e38922f9bc2ce5eede83996e6f913f9325b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SontolFilm.cs3",
+        "status": 1,
+        "version": 6,
+        "name": "SontolFilm",
+        "internalName": "SontolFilm",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "SontolFilm Movie( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 31664,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sontolfilm.com&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-4c69e33f3cd9345f4df259360f30e05bf114442f1f4eeab82dc6c13bf1678b9b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/SoraStream.cs3",
+        "status": 1,
+        "version": 298,
+        "name": "SoraStream",
+        "internalName": "SoraStream",
+        "authors": [
+            "Hexated",
+            "Sora",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "#1 Best Extention Streaming on MultiAPI ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 163796,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://static.wikitide.net/cloudstreamwiki/thumb/7/74/SoraStream.png/32px-SoraStream.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-2a21fbd55e32c8cd73d50ef18ae2de4ecbe6cccd95219879351d72a7c1f1605f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Terbit21.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "Terbit21",
+        "internalName": "Terbit21",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Terbit21 Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 52065,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://162.244.95.227/&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-bbb00247f1a1674c8aa9f682352865f4146a1a7e631b2ad96743712d1922c9d2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/ToonHub.cs3",
+        "status": 1,
+        "version": 19,
+        "name": "ToonHub",
+        "internalName": "ToonHub",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Toonhub4u Anime Movie( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 32471,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://toonhub4u.co/&size=64",
+        "apiVersion": 1,
+        "fileHash": "sha256-d11a977d55647d5cd3b535248a93eede86e4389df3e112c09533b2f42852e76b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/Winbu.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Winbu",
+        "internalName": "Winbu",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Winbu \u2014 Streaming Anime, Movie and TV Series( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 47720,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://winbu.net&size=%size%",
+        "apiVersion": 1,
+        "fileHash": "sha256-0a67f8f11372ce82db27351cde0cc5ec8a610eacf5b8ced34a170f821b3d4553"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/YouTube.cs3",
+        "status": 1,
+        "version": 8,
+        "name": "YouTube",
+        "internalName": "YouTube",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "YOUTUBE Streaming ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 29063,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ecfe369ecd6826535507c7bdf059fcee840f69e2df1d0053a2ecee2335ad4b37"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/CzRoez/MyRep/builds/ZoroNime.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "ZoroNime",
+        "internalName": "ZoroNime",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "ZoroNime Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 44641,
+        "repositoryUrl": "https://github.com/CzRoez/MyRep",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zoronime.online&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-be2f1ab13708bd76267091985cb49586695471f46afa95ac74f3f99813dcf7e3"
+    }
+]
