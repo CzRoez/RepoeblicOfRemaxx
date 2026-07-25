@@ -1182,29 +1182,6 @@
         "fileHash": "sha256-34009500c72ac30251da7bcd591c140718318112daa241206cd55b49cf8e8d83"
     },
     {
-        "url": "( LOCKED ! Only ACCES in VIP ).PMSM.cs3",
-        "status": 1,
-        "version": 18,
-        "name": "MovieSubMY ( LOCKED ! Only ACCES in VIP )",
-        "internalName": "MovieSubMY ( LOCKED ! Only ACCES in VIP )",
-        "authors": [
-            "H\u00e1nL\u00ec",
-            "ZombX"
-        ],
-        "description": "MovieSubMY PMSM - Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
-        "fileSize": 25278,
-        "repositoryUrl": "https://github.com/HánLì/ZombX",
-        "language": "id",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pencurimovie.my&size=32",
-        "apiVersion": 1
-    },
-    {
         "url": "( LOCKED ! Only ACCES in VIP ).NgeFilm.cs3",
         "status": 1,
         "version": 11,
@@ -1600,7 +1577,7 @@
             "Movie",
             "AsianDrama"
         ],
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sflix.film&size=32",
+        "iconUrl": "https://raw.githubusercontent.com/RpCpuX/Cuklik/refs/heads/main/download.png",
         "apiVersion": 1,
         "fileHash": "sha256-b85b8bb0876e6f755a24e393c12e4e38922f9bc2ce5eede83996e6f913f9325b"
     },
