@@ -49,7 +49,7 @@
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/AnichinMoe.cs3",
         "status": 1,
-        "version": 57,
+        "version": 59,
         "name": "AnichinMoe",
         "internalName": "AnichinMoe",
         "authors": [
@@ -58,7 +58,7 @@
             "H\u00e1nL\u00ec"
         ],
         "description": "AnichinMoe Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
-        "fileSize": 68939,
+        "fileSize": 121525,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
         "language": "id",
         "tvTypes": [
@@ -68,7 +68,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=64",
         "apiVersion": 1,
-        "fileHash": "sha256-67a49700ecba2ff890b80bfc2dc9fdeb93d5667dbb6d3fb9994c2bc5bb4bcd95"
+        "fileHash": "sha256-f3b3dd6e7f074d2fb0b9bcd870ff4f05a45b1b3b49c17a178600040f2a5b070d"
     },
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/Animasu.cs3",
@@ -145,7 +145,7 @@
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/Animexin.cs3",
         "status": 1,
-        "version": 13,
+        "version": 18,
         "name": "Animexin",
         "internalName": "Animexin",
         "authors": [
@@ -154,7 +154,7 @@
             "H\u00e1nL\u00ec"
         ],
         "description": "Anime and Movies From Animexin ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
-        "fileSize": 25017,
+        "fileSize": 57962,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
         "language": "id",
         "tvTypes": [
@@ -164,7 +164,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexin.dev&size=32",
         "apiVersion": 1,
-        "fileHash": "sha256-11411b551fc14ac5184d37bb4a0fe4c0a99136f217f57cceb4d92d068e28f64c"
+        "fileHash": "sha256-d55571e201020e2382bc0c9dccec5b0faa4245f6add1c5de153a81dcce4b12f9"
     },
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/AnixVerse.cs3",
@@ -347,6 +347,30 @@
         "fileHash": "sha256-e65677a6d543c9ec6ae0d72b9755567a21a69ee0eede13c707960e094b8abd84"
     },
     {
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/DonghuaArena.cs3",
+        "status": 1,
+        "version": 25,
+        "name": "DonghuaArena",
+        "internalName": "DonghuaArena",
+        "authors": [
+            "Hexated",
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "Donghua Arena Anime Movie ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 51935,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "language": "id",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghuaarena.site&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-58e1cbd3cd8d5861c340a11e8e2a2019d578b582eaa15f22bffcb13810a19ff3"
+    },
+    {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/DonghuaFilm.cs3",
         "status": 1,
         "version": 12,
@@ -419,7 +443,7 @@
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/Donghub.cs3",
         "status": 1,
-        "version": 15,
+        "version": 20,
         "name": "Donghub",
         "internalName": "Donghub",
         "authors": [
@@ -428,7 +452,7 @@
             "ZombX"
         ],
         "description": "DongHub Anime and Movies ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
-        "fileSize": 63697,
+        "fileSize": 136422,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
         "language": "id",
         "tvTypes": [
@@ -438,7 +462,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=32",
         "apiVersion": 1,
-        "fileHash": "sha256-eed034ba420cc1925e4e4491a701f2c3f154c5d46acaa61ce087092c3a4db9ac"
+        "fileHash": "sha256-23c661c9d3d920351d73de03bd3c9b3b82fe8cc3ec3dcdcbe7bcf255e1f88e95"
     },
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/DramaAsia.cs3",
@@ -1637,7 +1661,7 @@
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/YunshanID.cs3",
         "status": 1,
-        "version": 8,
+        "version": 10,
         "name": "YunshanID",
         "internalName": "YunshanID",
         "authors": [
@@ -1647,7 +1671,7 @@
             "ZombX"
         ],
         "description": "YUNSHAN ID Streaming ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
-        "fileSize": 72105,
+        "fileSize": 102116,
         "repositoryUrl": "https://github.com/HánLì/ZombX",
         "language": "id",
         "tvTypes": [
@@ -1658,7 +1682,7 @@
         ],
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://yunshanid.site&size=64",
         "apiVersion": 1,
-        "fileHash": "sha256-7d4077205217bb31bb5acb14e7b98cd652e5bc7bb26814250fc0e7852e1ec8ee"
+        "fileHash": "sha256-52069ea3eda52e70baa6c847c011d1576f5526dedcf4bf7dbf294d43032a4bad"
     },
     {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/ZoroNime.cs3",
