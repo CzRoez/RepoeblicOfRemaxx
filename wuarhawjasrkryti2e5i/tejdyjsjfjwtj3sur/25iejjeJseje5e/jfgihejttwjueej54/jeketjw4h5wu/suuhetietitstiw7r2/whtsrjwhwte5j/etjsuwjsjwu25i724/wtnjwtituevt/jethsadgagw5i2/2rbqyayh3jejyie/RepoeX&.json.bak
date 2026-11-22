@@ -816,6 +816,51 @@
         "fileHash": "sha256-2dbbd53e64820fb17fbe3b8e7fe2820224cbef693fd838199d6b98d996602dd6"
     },
     {
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/MovieBoxIN.cs3",
+        "status": 1,
+        "version": 26,
+        "name": "MovieBoxIN",
+        "internalName": "MovieBoxIN",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX","Phisher98"
+        ],
+        "description": "MovieBoxIN - Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 71995,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "language": "id",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
+        "apiVersion": 1
+    },
+    {
+        "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/MovieBox.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "MovieBox",
+        "internalName": "MovieBox",
+        "authors": [
+            "H\u00e1nL\u00ec",
+            "ZombX"
+        ],
+        "description": "MovieBox - Streaming Movie and Series ( Make Sure Ur Internet is Stable ! if No Links Video or Plugin Not Loaded, ON-OFF ( DATA/WIFI ) or AIRPLANE mode ) Bcz Sometimes Network or Providers ISSUES !",
+        "fileSize": 44389,
+        "repositoryUrl": "https://github.com/HánLì/ZombX",
+        "language": "id",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph&size=32",
+        "apiVersion": 1,
+        "fileHash": "sha256-267a7e6b94dc482343a7014a7d403aaf83bb7e651f06b502a8c45512efd29331"
+    },
+    {
         "url": "https://github.com/CzRoez/RepoeblicOfRemaxx/raw/refs/heads/main/wuarhawjasrkryti2e5i/tejdyjsjfjwtj3sur/25iejjeJseje5e/jfgihejttwjueej54/jeketjw4h5wu/suuhetietitstiw7r2/whtsrjwhwte5j/etjsuwjsjwu25i724/wtnjwtituevt/jethsadgagw5i2/2rbqyayh3jejyie/bsswhU2uegajfh/sguwfhrsjejfjejescd/MovieBoxPH.cs3",
         "status": 1,
         "version": 9,
